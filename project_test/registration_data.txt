@@ -1,0 +1,35 @@
+--------------------------------------
+Name: Enderr
+Password: ender17
+Email: 234567@gmail.com
+Date of Birth: 34 32 1003
+Course: ML/AI
+
+--------------------------------------
+Name: Nisarg
+Password: here
+Email: 3422@gmail.com
+Date of Birth: 24 01 2006
+Course: Gay pro max
+
+--------------------------------------
+Name: Dwij
+Password: Ender
+Email: enderplayz54@gmail.com
+Date of Birth: 17 01 2005
+Course: B.Tech with BDA
+
+--------------------------------------
+Name: Hellomy
+Password: ender
+Email: 134@gmail.com
+Date of Birth: 17 02 2006
+Course: B.Tech with BDA
+
+--------------------------------------
+Name: aric
+Password: 1234
+Email: aru=icpad
+Date of Birth: 07012006
+Course: cs
+

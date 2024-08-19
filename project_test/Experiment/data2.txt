@@ -1,0 +1,6 @@
+ Here employee id name address & salary for object0:
+23	df	sgd	sdg
+ Here employee id name address & salary for object1:	
+32	dsfg	fsg	sfg
+ Here employee id name address & salary for object2:	
+76	dfgh	sdf	asd

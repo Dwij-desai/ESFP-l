@@ -1,0 +1,1 @@
+This is the example for tellg fution in file handing
