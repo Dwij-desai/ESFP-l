@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First Web Page</h1>
+    <p id="result">My first paragraph.</p>
+    <button id="myButton">Try it</button>
+
+    <script>
+      var button = document.getElementById("myButton");
+      var resultParagraph = document.getElementById("result");
+
+      button.onclick = function() {
+        resultParagraph.innerHTML = 5 + 6;
+      };
+    </script>
+  </body>
+</html>
